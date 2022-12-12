@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <lab1.h>
+#include <main.c>
 
 char* readString(char *fileName){
   int s1_length = strlen(fileName);
